@@ -16,7 +16,12 @@
 - **Web Development:** HTML, CSS, WordPress
 - **Other Tools:** Canva
 - **Core Concepts:** Object-Oriented Programming (OOP)
-
+![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-Learning-orange?logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML-Learning-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Learning-blue?logo=css3)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
 ### 🎯 Currently Focused On
 
 - Improving Python programming skills.
